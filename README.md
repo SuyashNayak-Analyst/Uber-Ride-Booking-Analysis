@@ -3,6 +3,7 @@
 This project analyzes Uber ride booking data to uncover insights into customer behavior, driver behavior, service quality, peak demand, cancellations, and revenue trends. Using Python, Pandas, and NumPy, the project transforms raw ride booking data into actionable insights for business decision-making.
 
 🔹 Features
+
 1️⃣ Booking Overview
 
 Total bookings, completed rides, and cancellations
@@ -88,5 +89,6 @@ Excel Reports (via xlsxwriter)
 LinkedIn
 
 📧 suyashnayak11@gmail.com
+
 
 ⭐ This project demonstrates how data analysis can help ride-hailing companies improve customer experience, driver efficiency, and revenue growth.
